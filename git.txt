@@ -1,0 +1,2 @@
+1 sourcetree - new tab
+2 remote - napsat název co na githubu a dát clone + nastavit cestu (musí být prázdná složka)
